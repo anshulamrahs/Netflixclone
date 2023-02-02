@@ -5,7 +5,7 @@ const Hello = () => {
   return (
     <div className='home'>
         <AcUnitIcon/>
-        Hello
+        <h1>Agtuh</h1>
     </div>
   )
 }
