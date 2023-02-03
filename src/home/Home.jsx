@@ -6,6 +6,8 @@ const Hello = () => {
     <div className='home'>
         <AcUnitIcon/>
         <h1>Agtuh</h1>
+        <h1>Agtuh</h1>
+        <h1>Agtuh</h1>
     </div>
   )
 }
