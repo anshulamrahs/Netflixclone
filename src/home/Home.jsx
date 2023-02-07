@@ -1,11 +1,18 @@
 import "./home.scss";
 import Navbar from "../components/navbar/Navbar";
+import Featured from "../components/featured/Featured";
+import List from "../components/list/List";
 
 const Hello = () => {
   return (
     <div className='home'>
         <Navbar/>
-        <img width= "100%" src="https://images.pexels.com/photos/1200450/pexels-photo-1200450.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="" />
+        <Featured/>
+        <List/>
+        <List/>
+        <List/>
+        <List/>
+        <List/>
     </div>
   )
 }
